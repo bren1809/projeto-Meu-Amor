@@ -1,0 +1,142 @@
+body {
+	background: #F5A9BC;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	width: auto;
+	padding: 50px;
+}
+
+#menu {
+	display: inline;
+	padding: 20px;
+	margin: 10px
+	text-align: center;
+}
+
+#sobre {
+}
+
+a {
+	text-decoration: none;
+	margin: 10px;
+	font-weight: bold;
+	color: #610B4B;
+	font-size: 20px;
+	text-align: center;
+}
+
+#container {
+	background: #F6CECE;
+	width: 700px;
+	margin: auto;
+	text-align: center;
+	background: #F6CECE;
+	padding: 50px;
+}
+
+#motivos-amor {
+	font-size: 35px;
+	font-family: Geneva, Verdana, sans-serif;
+	color: #99014A;
+}
+
+.logo {
+	padding: 0px;
+	width: 60px;
+	position: fixed;
+	display: inline-block;
+	box-sizing: border-box;
+	font-size: 30px;
+	height: auto;
+	margin-bottom: 100px;
+}
+
+.resize-image {
+	width: 400px;
+	height: auto;
+}
+
+.ajuste-foto2 {
+	width: 500px;
+	height: auto;
+}
+
+.ajuste-fotonos3 {
+	width: 140px;
+	height: auto;
+}
+
+.ajuste-fotonos2 {
+	width: 140px;
+	height: auto;
+}
+
+.ajuste-fotonos5 {
+	width: 140px;
+	height: auto;
+}
+
+.ajuste-fotonos1 {
+	width: 140px;
+	height: auto;
+}
+
+.ajuste-fotonos4 {
+	width: 140px;
+	height: auto;
+}
+
+.recadinho {
+	font-family: "Sofia", sans-serif;
+}
+
+.quem-somos {
+	font-size:55px
+}
+
+.comunicação {
+	font-size: 19px;
+}
+
+.quem-somos2 {
+	font-family: "Audiowide", sans-serif;
+	color: white ;
+	text-shadow: 3px 3px 0px black;
+	margin-bottom: 100px;
+	font-size: 50px;
+}
+
+.motivos-amor {
+}
+h1 {
+	font-family: "Audiowide", sans-serif;
+	color: white ;
+	text-shadow: 3px 3px 0px black;
+	text-align: center;
+	background: #F6CECE;
+	margin: 6px;
+	display: inline;
+	font-size: 90px;
+}
+
+h2 {
+	font-size: 55px;
+	font-family: "Sofia", sans-serif;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+p {
+	font-size: 20px;
+}
+
+h4 {
+	font-size: 35px;
+	font-family: Geneva, Verdana, sans-serif;
+	color: #99014A;
+	text-decoration: underline;
+}
