@@ -25,6 +25,9 @@ a {
 	color: #610B4B;
 	font-size: 20px;
 	text-align: center;
+	 font-family: "Sofadi One", system-ui;
+	  font-weight: 400;
+	  font-style: normal;
 }
 
 #container {
@@ -128,15 +131,26 @@ h2 {
 
 h3 {
 	font-size: 30px;
+	font-family: "Josefin Sans", sans-serif;
+	  font-optical-sizing: auto;
+	  font-weight: <weight>;
+	  font-style: normal;
 }
 
 p {
 	font-size: 20px;
+	font-family: "Playwrite CU", cursive;
+	  font-optical-sizing: auto;
+	  font-weight: <weight>;
+	  font-style: normal;
 }
 
 h4 {
 	font-size: 35px;
-	font-family: Geneva, Verdana, sans-serif;
 	color: #99014A;
-	text-decoration: underline;
+	text-decoration:underline;
+	 font-family: "Sofadi One", system-ui;
+	  font-weight: 400;
+	  font-style: normal;
+
 }
